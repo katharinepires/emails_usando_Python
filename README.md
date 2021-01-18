@@ -1,4 +1,4 @@
-# Como usar o Python para enviar emails simples com TSL e SSL
+# Como usar o Python para enviar emails simples com TLS e SSL
 
 Nesse repositório há arquivos no formato `.html` que para serem visualziados como sites, deverão ser baixados. 
 Nesse repositório também há os scripts com os códigos.
